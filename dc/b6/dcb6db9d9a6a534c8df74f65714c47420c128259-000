@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e6bf3-ec15-7a02-be3f-4aead72c9703",
+  "sessionId": "019e6bf3-ec15-7a02-be3f-4aead72c9703",
+  "provider": "codex",
+  "title": "désinstalle proprement parallels sur mon mac fais d'abord un ask et ensuite je valide",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/28/rollout-2026-05-28T02-20-08-019e6bf3-ec15-7a02-be3f-4aead72c9703.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/28/rollout-2026-05-28T02-20-08-019e6bf3-ec15-7a02-be3f-4aead72c9703.jsonl",
+      "relativePath": "conversations/codex/39994f05f84906b9/3fd6aa90bb6774f9.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-28T00:32:11.424Z",
+  "stagedAt": "2026-10-04T09:28:06.174Z"
+}

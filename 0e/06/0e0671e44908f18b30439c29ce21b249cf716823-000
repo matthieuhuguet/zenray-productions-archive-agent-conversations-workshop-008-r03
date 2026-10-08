@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "codex:019e655e-3da1-79b2-b918-6da9173a4d53",
+  "sessionId": "019e655e-3da1-79b2-b918-6da9173a4d53",
+  "provider": "codex",
+  "title": "Si on comparait les DAW aux DCC 3D est ce que ce tableau serait pertinent ou non sinon refait ajuste : L'analogie 3D que tu veux Mappage pro",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.codex/sessions/2026/05/26/rollout-2026-05-26T19-38-55-019e655e-3da1-79b2-b918-6da9173a4d53.jsonl"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.codex/sessions/2026/05/26/rollout-2026-05-26T19-38-55-019e655e-3da1-79b2-b918-6da9173a4d53.jsonl",
+      "relativePath": "conversations/codex/397197e58d78fe3d/6efcadd648a12aa1.jsonl"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-05-26T17:41:59.417Z",
+  "stagedAt": "2026-10-04T09:31:36.148Z"
+}
